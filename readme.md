@@ -68,3 +68,9 @@ h1{
     color: blue important;
 }
 '''
+
+
+### REPOSITORIO
+git remote add origin https://github.com/marcojan163/CSS01.git
+git branch -M main
+git push -u origin main
