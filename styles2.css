@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Merriweather' ;
+    src: url(./fonts/Merriweather/Merriweather-LightItalic.ttf) ,
+}
+
+h1{
+   color: blue;
+   font-family: 'Merriweather' ;  
+}
+h2{
+    font-family: 'Merriweather';
+}
